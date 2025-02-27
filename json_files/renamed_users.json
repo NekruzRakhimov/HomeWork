@@ -1,0 +1,41 @@
+{
+  "name": "Алексей",
+  "age": 30,
+  "is_student": false,
+  "courses": [
+    {
+      "title": "Программирование на Python",
+      "credits": 5,
+      "completed": true
+    },
+    {
+      "title": "Математика",
+      "credits": 4,
+      "completed": false
+    }
+  ],
+  "address": {
+    "street": "Ленина",
+    "city": "Москва",
+    "postal_code": "101000"
+  },
+  "hobbies": [
+    "чтение",
+    "путешествия",
+    "спорт"
+  ],
+  "preferences": {
+    "food": "итальянская",
+    "music": [
+      "рок",
+      "джаз"
+    ],
+    "movies": {
+      "favorites": [
+        "Интерстеллар",
+        "Начало"
+      ],
+      "recent": "Дюна"
+    }
+  }
+}
