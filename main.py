@@ -16,3 +16,6 @@ def delete_user(name):
 
 def restore_user(name):
     print("Restoring user...")
+
+def login_user(name):
+    print("Logging in...")
